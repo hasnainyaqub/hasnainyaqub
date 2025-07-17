@@ -1,7 +1,7 @@
 # Hi there! I'm Hasnain Yaqoob
 
 ## About Me
-I'm a passionate Data Science enthusiast currently enrolled in a **6-months of Data Science and AI Mentorship Program** at [Codanics.com](https://codanics.com). I love working with data, building models, and creating insightful visualizations.
+Aspiring Data Scientist focused on machine learning, data analysis, and AI applications, continuously building skills through practical projects and structured learning.
 
 ## What I'm Learning
 - **Python** for data science & automation
