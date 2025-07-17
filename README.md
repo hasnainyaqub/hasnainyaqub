@@ -18,11 +18,11 @@ I'm a passionate Data Science enthusiast currently enrolled in a **6-months of D
 - Research in **AI & Time Series Analysis**
 
 ## How to Reach Me
+-  [**LinkedIn**](https://www.linkedin.com/in/hasnain-yaqoob-/)
+-  [**Kaggle**](https://www.kaggle.com/hasnainyaqooob)
+- [**X|Twitter**](https://x.com/hasnain_yaqoob_) 
 - [**GitHub**](https://github.com/hasnainyaqub)
-- **LinkedIn:** [https://www.linkedin.com/in/hasnain-yaqoob-/](https://www.linkedin.com/in/hasnain-yaqoob-/)
-- **Kaggle:** [https://www.kaggle.com/hasnainyaqooob](https://www.kaggle.com/hasnainyaqooob)
-- **Email:** Hasnainyaqubakm@gmail.com
-- [**X**](https://x.com/hasnain_yaqoob_) 
+- [**Email**](mailto:Hasnainyaqubakm@gmail.com)
 
 ## Fun Fact
 I love solving real-world problems using AI and enjoy exploring the latest advancements in machine learning!
