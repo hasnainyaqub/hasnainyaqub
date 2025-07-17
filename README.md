@@ -21,9 +21,10 @@ I'm an aspiring **Data Scientist** with a focus on **Machine Learning**, **Data 
 ## How to Reach Me
 -  [**LinkedIn**](https://www.linkedin.com/in/hasnain-yaqoob-/)
 -  [**Kaggle**](https://www.kaggle.com/hasnainyaqooob)
-- [**X|Twitter**](https://x.com/hasnain_yaqoob_) 
+- [**X.com**](https://x.com/hasnain_yaqoob_) 
 - [**GitHub**](https://github.com/hasnainyaqub)
-- [**Email**](mailto:Hasnainyaqubakm@gmail.com)
+[**Email**](mailto:Hasnainyaqubakm@gmail.com)
+
 
 ## Fun Fact
 I love solving real-world problems using AI and enjoy exploring the latest advancements in machine learning!
