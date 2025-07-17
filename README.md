@@ -1,7 +1,8 @@
 # Hi there! I'm Hasnain Yaqoob
 
 ## About Me
-Aspiring Data Scientist focused on machine learning, data analysis, and AI applications, continuously building skills through practical projects and structured learning.
+I'm an aspiring **Data Scientist** with a focus on **Machine Learning**, **Data Analysis**, and **AI applications**. I am building my skills through **hands-on projects** and **structured learning** to solve real-world problems using **data-driven solutions**.
+
 
 ## What I'm Learning
 - **Python** for data science & automation
