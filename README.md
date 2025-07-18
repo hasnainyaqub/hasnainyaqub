@@ -23,8 +23,6 @@ I'm an aspiring **Data Scientist** with a focus on **Machine Learning**, **Data 
 -  [**Kaggle**](https://www.kaggle.com/hasnainyaqooob)
 - [**X.com**](https://x.com/hasnain_yaqoob_) 
 - [**GitHub**](https://github.com/hasnainyaqub)
-- **Email**[Hasnainyaqubakm@gmail.com](hasnainyaqubakm@gmail.com)
-
 
 ## Fun Fact
 I love solving real-world problems using AI and enjoy exploring the latest advancements in machine learning!
