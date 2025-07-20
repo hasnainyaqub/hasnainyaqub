@@ -27,5 +27,5 @@ I'm an aspiring **Data Scientist** with a focus on **Machine Learning**, **Data 
 ## Fun Fact
 I love solving real-world problems using AI and enjoy exploring the latest advancements in machine learning!
 
----
+----
 Let's connect and grow together! 
