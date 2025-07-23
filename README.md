@@ -19,7 +19,7 @@ I'm an aspiring **Data Scientist** with a focus on **Machine Learning**, **Data 
 - Research in **AI & Time Series Analysis**
 
 ## How to Reach Me
--  [**LinkedIn**](https://www.linkedin.com/in/hasnain-yaqoob-/)
+-  [**LinkedIn**](https://www.linkedin.com/in/hasnainyaqoob/)
 -  [**Kaggle**](https://www.kaggle.com/hasnainyaqooob)
 - [**X.com**](https://x.com/hasnain_yaqoob_) 
 - [**GitHub**](https://github.com/hasnainyaqub)
