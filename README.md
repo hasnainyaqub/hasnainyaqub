@@ -11,7 +11,7 @@ I'm an aspiring **Data Scientist** with a focus on **Machine Learning**, **Data 
 - **Machine Learning & Deep Learning** (Scikit-learn, TensorFlow, PyTorch)
 - **Time Series Analysis & Generative AI**
 - **Flask & FastAPI** for web development
-- **Databases & BI Tools** (SQL, Power BI, Tableau)
+- **Databases** (SQL)
 
 ## What I'm Looking For
 - Open-source projects related to Data Science & AI
