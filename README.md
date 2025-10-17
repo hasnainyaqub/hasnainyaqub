@@ -3,7 +3,7 @@
 ## About Me
 I'm an aspiring **Data Scientist** with a focus on **Machine Learning**, **Data Analysis**, and **AI applications**. I am building my skills through **hands-on projects** and **structured learning** to solve real-world problems using **data-driven solutions**.
 
-[**Portfolio**](https://hasnainprofile.lovable.app/)
+
 
 
 ## What I'm Learning
@@ -25,7 +25,7 @@ I'm an aspiring **Data Scientist** with a focus on **Machine Learning**, **Data 
 -  [**Kaggle**](https://www.kaggle.com/hasnainyaqooob)
 - [**X.com**](https://x.com/hasnain_yaqoob_) 
 - [**GitHub**](https://github.com/hasnainyaqub)
-
+- [**Portfolio**](https://hasnainprofile.lovable.app/)
 ## Fun Fact
 I love solving real-world problems using AI and enjoy exploring the latest advancements in machine learning!
 
