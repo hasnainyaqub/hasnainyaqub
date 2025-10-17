@@ -3,6 +3,8 @@
 ## About Me
 I'm an aspiring **Data Scientist** with a focus on **Machine Learning**, **Data Analysis**, and **AI applications**. I am building my skills through **hands-on projects** and **structured learning** to solve real-world problems using **data-driven solutions**.
 
+[**Portfolio**](https://hasnainprofile.lovable.app/)
+
 
 ## What I'm Learning
 - **Python** for data science & automation
