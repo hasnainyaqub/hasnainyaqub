@@ -69,7 +69,7 @@ I am **Hasnain Yaqoob**, an aspiring **AI Engineer** with a growing skill set in
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/hasnainyaqooob)  
 [![X](https://img.shields.io/badge/X_Profile-blue?style=for-the-badge&logo=x)](https://x.com/Hasnain_Yaqoob_)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/hasnainyaqub)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=github)](https://hasnainprofile.lovable.app/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=github)](https://hasnainprofile.lovable.app/)
 
 ---
 
