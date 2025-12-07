@@ -39,19 +39,20 @@
 
 ### About Me
 
-I am **Hasnain Yaqoob**, an aspiring Data Scientist who is actively building expertise across **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**, and **Generative AI**. I am also learning **FastAPI**, **Django** and backend development to build complete and scalable AI powered applications. I enjoy working on real world problems, experimenting with modern AI techniques, and creating solutions that deliver practical value.
+I am **Hasnain Yaqoob**, an aspiring **Data Scientist** who is actively building expertise across **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**, and **Generative AI**. I am also learning **FastAPI**, **Django** and backend development to build complete and scalable AI powered applications. I enjoy working on real world problems, experimenting with modern AI techniques, and creating solutions that deliver practical value.
 
 ---
 
 ### What I am Learning
 
-- Python for data science and automation  
-- Pandas and NumPy for data manipulation  
-- Data visualization using Seaborn, Matplotlib, and Plotly  
-- Machine Learning and Deep Learning using Scikit-learn, TensorFlow, and PyTorch  
-- Time Series Analysis and Generative AI  
-- Web development using Flask and FastAPI  
-- Databases with SQL  
+- **Python** for **data science** and **automation** 
+- **Pandas** and **NumPy** for **data manipulation**  
+- **Data visualization** using **Seaborn**, **Matplotlib**, and **Plotly**  
+- **Machine Learning** and **Deep Learning** using **Scikit-learn**, **TensorFlow**, and **PyTorch**  
+- **NLP** using **Nltk**, **saCy** ...
+- **Generative AI** using **LangChain**
+- **Web development** using **Flask** and **FastAPI**  
+- **Databases with SQL**  
 
 ---
 
