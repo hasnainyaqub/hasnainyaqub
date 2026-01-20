@@ -37,8 +37,6 @@
 
 ### About Me
 
-### About Me
-
 I am **Hasnain Yaqoob**, an aspiring **Data Scientist** who is actively building expertise across **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**, and **Generative AI**. I am also learning **FastAPI**, **Django** and backend development to build complete and scalable AI powered applications. I enjoy working on real world problems, experimenting with modern AI techniques, and creating solutions that deliver practical value.
 
 ---
