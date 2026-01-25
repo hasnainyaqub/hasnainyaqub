@@ -3,24 +3,34 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <div id="badges">
-      <a href="https://www.linkedin.com/in/hasnainyaqoob/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.kaggle.com/hasnainyaqooob">
-      <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-    </a>
-    <a href="https://hasnainprofile.lovable.app/">
-      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
-    </a>
-    <a href="https://x.com/Hasnain_Yaqoob_">
-      <img src="https://img.shields.io/badge/X_Profile-blue?style=for-the-badge&logo=x" alt="X Badge"/>
-    </a>
-    <a href="https://github.com/hasnainyaqub">
-      <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=hasnainyaqub&style=flat-square&color=blue" alt=""/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hasnainyaqoob/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://www.kaggle.com/hasnainyaqooob">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+
+  <a href="https://github.com/hasnainyaqub">
+    <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  
+  <a href="https://hasnainprofile.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
+  </a>
+
+  <a href="https://x.com/Hasnain_Yaqoob_">
+    <img src="https://img.shields.io/badge/X_Profile-blue?style=for-the-badge&logo=x" alt="X Badge"/>
+  </a>
+
+
+  <a href="https://www.facebook.com/aiwithhasnain">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=hasnainyaqub&style=flat-square&color=blue" alt=""/>
 
   
   <h1>
@@ -68,7 +78,9 @@ I am **Hasnain Yaqoob**, an aspiring **Data Scientist** who is actively building
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/hasnainyaqooob)  
 [![X](https://img.shields.io/badge/X_Profile-blue?style=for-the-badge&logo=x)](https://x.com/Hasnain_Yaqoob_)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/hasnainyaqub)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=github)](https://hasnainprofile.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=github)](https://hasnainprofile.lovable.app/)  
+[![Facebook](https://img.shields.io/badge/Facebook-AI_with_Hasnain-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aiwithhasnain)
+
 
 ---
 
