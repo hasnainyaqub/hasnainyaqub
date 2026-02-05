@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   
-  <a href="https://hasnainprofile.lovable.app/">
+  <a href="https://hasnainyaqoob.site">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
   </a>
 
