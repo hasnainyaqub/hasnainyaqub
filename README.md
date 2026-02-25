@@ -1,67 +1,72 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
-
 # Hasnain Yaqoob
 
-**AI Engineer · Machine Learning · Generative AI · Backend Development**
+**AI Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnainyaqoob/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hasnainyaqooob)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasnainyaqub)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://hasnainprofile.lovable.app/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Hasnain_Yaqoob_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/aiwithhasnain)
+<a href="https://www.linkedin.com/in/hasnainyaqoob/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/hasnainyaqooob"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+<a href="https://github.com/hasnainyaqub"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://hasnainprofile.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://x.com/Hasnain_Yaqoob_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="https://www.facebook.com/aiwithhasnain"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasnainyaqub&style=flat-square&color=0A66C2)
+![Profile Views](https://komarev.com/ghpvc/?username=hasnainyaqub&style=flat-square&color=555555&label=Profile+Views)
 
 </div>
 
 ---
 
-## About Me
+## Overview
 
-I'm an aspiring **AI Engineer** focused on building intelligent, scalable, and production-ready AI systems. My work spans **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Generative AI**, with a strong emphasis on deploying real-world applications.
+I design and build intelligent, production-ready AI systems with a focus on applied machine learning, large language models, and generative AI. My engineering work spans the full lifecycle - from data processing and model development to API design and deployment.
 
-I'm also developing backend engineering skills with **FastAPI** to design end-to-end AI-powered platforms — from data pipelines to deployed APIs. I enjoy transforming ideas into functional AI solutions and continuously pushing the boundaries of model performance.
+Currently deepening my expertise in **LLM systems**, **RAG pipelines**, **Agentic AI workflows**, and **FastAPI-based backend architecture** to deliver robust, end-to-end AI solutions.
 
 ---
 
-## Technical Stack
+## Technical Skills
 
-| Domain | Tools & Frameworks |
+```
+Languages              Python · SQL
+Machine Learning       Scikit-learn · TensorFlow · PyTorch
+Deep Learning          CNNs · RNNs · Transformers
+Natural Language       NLTK · spaCy · LangChain
+Data Engineering       Pandas · NumPy
+Visualization          Matplotlib · Seaborn · Plotly
+```
+
+```
+LLM & GenAI            Hugging Face Transformers · Prompt Engineering
+Vector Databases       FAISS · Chroma · Pinecone
+RAG Pipelines          Retrieval-Augmented Generation · Agent Systems
+```
+
+```
+Backend                FastAPI · REST APIs · Async Python (asyncio)
+MLOps & Deployment     Docker · Git & GitHub · GitHub Actions (CI/CD)
+```
+
+---
+
+## Areas of Focus
+
+- Production deployment of ML and LLM-powered applications using Docker and CI/CD
+- Retrieval-Augmented Generation (RAG) systems with vector database integration
+- End-to-end AI platform design with FastAPI and async backend architecture
+- MLOps practices: containerization, version control, and automated pipelines
+- Open-source contributions in applied AI and generative systems
+
+
+---
+
+## Contact
+
+Open to AI engineering roles, research collaborations, and open-source projects.
+
+| Platform | Link |
 |---|---|
-| **Languages** | Python |
-| **Data Processing** | Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn, Plotly |
-| **ML / DL** | Scikit-learn, TensorFlow, PyTorch |
-| **NLP** | NLTK, spaCy |
-| **Generative AI & LLMs** | LangChain |
-| **Backend** | FastAPI |
-| **Databases** | SQL |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnainyaqub&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainyaqub&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-## Career Interests
-
-- **AI Engineer** and Generative AI roles
-- Building production-ready ML and LLM systems
-- Open-source AI projects and collaborations
-- Applied research and intelligent system design
-
----
-
-## Let's Connect
-
-I'm always open to discussing AI, collaborating on projects, or exploring new opportunities. Feel free to reach out through any of the platforms above — let's build something meaningful together.
+| <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> | [linkedin.com/in/hasnainyaqoob](https://www.linkedin.com/in/hasnainyaqoob/) |
+| <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/> | [hasnainprofile.lovable.app](https://hasnainyaqoob.site/) |
+| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> | [kaggle.com/hasnainyaqooob](https://www.kaggle.com/hasnainyaqooob) |
+| <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/> | [x.com/Hasnain_Yaqoob_](https://x.com/Hasnain_Yaqoob_) |
