@@ -29,7 +29,7 @@ Currently deepening my expertise in **LLM systems**, **RAG pipelines**, **Agenti
 
 ```
 Languages              Python · SQL
-Machine Learning       Scikit-learn · TensorFlow · PyTorch
+Machine Learning       Scikit-learn · TensorFlow 
 Deep Learning          CNNs · RNNs · Transformers
 Natural Language       NLTK · spaCy · LangChain
 Data Engineering       Pandas · NumPy
