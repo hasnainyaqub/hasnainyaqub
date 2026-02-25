@@ -44,7 +44,7 @@ RAG Pipelines          Retrieval-Augmented Generation · Agent Systems
 
 ```
 Backend                FastAPI · REST APIs · Async Python (asyncio)
-MLOps & Deployment     Docker · Git & GitHub · GitHub Actions (CI/CD)
+Deployment     Docker · Git & GitHub · GitHub Actions (CI/CD)
 ```
 
 ---
