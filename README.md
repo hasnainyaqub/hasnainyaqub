@@ -19,7 +19,7 @@
 
 ## Overview
 
-I design and build intelligent, production-ready AI systems with a focus on applied machine learning, large language models, and generative AI. My engineering work spans the full lifecycle - from data processing and model development to API design and deployment.
+I design and build intelligent, production-ready AI systems with a focus on applied machine learning, large language models, and generative AI. My engineering work spans the full lifecycle — from data processing and model development to API design and deployment.
 
 Currently deepening my expertise in **LLM systems**, **RAG pipelines**, **Agentic AI workflows**, and **FastAPI-based backend architecture** to deliver robust, end-to-end AI solutions.
 
@@ -29,7 +29,7 @@ Currently deepening my expertise in **LLM systems**, **RAG pipelines**, **Agenti
 
 ```
 Languages              Python · SQL
-Machine Learning       Scikit-learn · TensorFlow 
+Machine Learning       Scikit-learn · TensorFlow
 Deep Learning          CNNs · RNNs · Transformers
 Natural Language       NLTK · spaCy · LangChain
 Data Engineering       Pandas · NumPy
@@ -39,24 +39,25 @@ Visualization          Matplotlib · Seaborn · Plotly
 ```
 LLM & GenAI            Hugging Face Transformers · Prompt Engineering
 Vector Databases       FAISS · Chroma · Pinecone
-RAG Pipelines          Retrieval-Augmented Generation · Agent Systems
+RAG Pipelines          Retrieval-Augmented Generation
+Agents & Multi-Agents  LangGraph · Agentic Workflows · Multi-Agent Systems
 ```
 
 ```
 Backend                FastAPI · REST APIs · Async Python (asyncio)
-Deployment             Docker · Git & GitHub · GitHub Actions (CI/CD)
+Deployment             Docker · Git & GitHub
 ```
 
 ---
 
 ## Areas of Focus
 
-- Production deployment of ML and LLM-powered applications using Docker and CI/CD
+- Production deployment of ML and LLM-powered applications using Docker
 - Retrieval-Augmented Generation (RAG) systems with vector database integration
+- Agentic AI and multi-agent system design using LangGraph and LangChain
 - End-to-end AI platform design with FastAPI and async backend architecture
-- MLOps practices: containerization, version control, and automated pipelines
+- MLOps practices: containerization and version control
 - Open-source contributions in applied AI and generative systems
-
 
 ---
 
